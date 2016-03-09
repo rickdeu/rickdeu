@@ -17,5 +17,21 @@
         
         <h1>André Hangalo</h1>
         <h1>Joaquim José Hangalo</h1>
+        <form method="POST">
+            <table border="1">
+               
+              
+                    <tr>
+                        <td>Nome:</td>
+                        <td><input type="text" name="nome" value="" /></td>
+                    </tr>
+                    <tr>
+                        <td>Email:</td>
+                        <td><input type="text" name="email" value="" /></td>
+                    </tr>
+                
+            </table>
+            <input type="submit" value="Guardar" />
+        </form>
     </body>
 </html>
