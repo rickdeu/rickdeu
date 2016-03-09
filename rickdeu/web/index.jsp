@@ -14,5 +14,8 @@
     <body>
         <h1>Colaboração</h1>
         <h2>Vamos contruir este projecto Juntos</h2>
+        
+        <h1>André Hangalo</h1>
+        <h1>Joaquim José Hangalo</h1>
     </body>
 </html>
