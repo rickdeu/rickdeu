@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Andre Hangalo Here
 <p>
   I am a Computer Engineer,
      graduated from Instituto Superior
@@ -10,8 +10,7 @@
 
 
 
-Here are some ideas to get you started:
-
+<hr>
 - 🔭 I’m currently working on 
 
 <p> 
