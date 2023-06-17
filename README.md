@@ -18,7 +18,7 @@ applications using popular frameworks like Django and Flask. I'm also skilled in
 ### - 🌱 I’m currently learning 
 
 <p>
-  Currently I continue my studies in Python, TDD, UnitTests and many more!
+  Currently I continue my studies in Python, Microservice, TDD, UnitTests and many more!
 I'm also interested in the mobile area with flutter.
 AWS Study, Docker
   </p>
